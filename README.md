@@ -219,10 +219,11 @@ The paper:
 
 ```latex
 @article{rosko2026typedlearn,
-    title        = {{Typed Backpropagation: EMNIST Classification with SKI-Definable Evaluators}},
+    title        = {{Typed Repair: EMNIST from $\lambda$-Definable Evaluation and Specialization Gate (Draft)}},
     author       = {Rosko, M.},
     year         = 2026,
-    note         = {arXiv preprint}
+    doi          = 10.5281/zenodo.18204862
+    note         = {manuscript draft} 
   }
 ```
 
