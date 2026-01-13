@@ -223,7 +223,6 @@ The paper:
     author       = {Rosko, M.},
     year         = 2026,
     doi          = 10.5281/zenodo.18204862
-    note         = {manuscript draft} 
   }
 ```
 
