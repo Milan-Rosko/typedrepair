@@ -1,6 +1,14 @@
 # typedrepair (v0.1.2)
 
-Finitary, semantics-locked learning by typed repair.
+provides the executable, semantics-locked finitary learning pipeline.
+
+Author: Milan Rosko (www.milanrosko.com)
+E-mail: Q1012878 at studium.fernuni-hagen.de
+
+Core tutorial and information:
+
+http://milanrosko.com/typedrepair.html
+
 This repository,
 
 ```
@@ -9,18 +17,16 @@ Milan-Rosko / typedrepair
 
 ```
 
-is the companion implementation for the accompanying paper (draft):
+is the companion implementation for the accompanying paper (manuscript draft):
 
 ```
 
-TYPED REPAIR: EMNIST FROM Λ-DEFINABLE EVALUATION AND SPECIALIZATION GATE
+TYPED REPAIR: EMNIST FROM λ-DEFINABLE EVALUATION AND SPECIALIZATION GATE
 
 ```
 
-It provides the executable, semantics-locked pipeline and the deterministic certification artifact described there.
+pdf: http://milanrosko.com/aux/typedrepair.pdf
 
-Author: Milan Rosko (www.milanrosko.com)
-E-mail: Q1012878 at studium.fernuni-hagen.de
 
 ## 1 Overview
 
@@ -239,8 +245,4 @@ and cite EMNIST:
 }
 ```
 
-License and dataset notice.
-
-Code in this repository is licensed under the terms in `licence.md`.
-
-EMNIST is a separate dataset with its own provenance and attribution expectations; this repository does not claim copyright over the dataset.
+License and dataset notice. The “code” in this repository is licensed under the terms in `licence.md`. EMNIST is a separate dataset with its own provenance and attribution expectations; this repository does not claim copyright over the dataset.
